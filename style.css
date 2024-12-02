@@ -1,0 +1,31 @@
+h1{
+font-size: 35px;
+text-align: center;
+color: #3e3b38
+}
+
+p1{
+font-size: 18px;
+text-align: left;
+font-family: Helvetica sans-serif;
+color: #3e3b38
+}
+
+p2{
+font-size: 18px;
+text-align: left;
+font-family: Helvetica sans-serif;
+color: #3e3b38
+}
+
+body {
+background-color: #d2cec8;
+font-size: 16px;
+color: #645b58
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
